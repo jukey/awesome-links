@@ -3,7 +3,7 @@ Personal collection of links worth to be shared in public as well
 
 ## Benchmarking
 
-- [wrk] - (https://github.com/wg/wrk) http benchmarking tool (usually part of Linux distros)
+- [wrk](https://github.com/wg/wrk) - http benchmarking tool (usually part of Linux distros)
 
 ## git
 
