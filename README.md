@@ -1,6 +1,10 @@
 # awesome-links
 Personal collection of links worth to be shared in public as well
 
+## Benchmarking
+
+- [wrk](https://github.com/wg/wrk) http benchmarking tool (usually part of Linux distros)
+
 ## git
 
 - [Rypress Git Tutorial](http://rypress.com/tutorials/git/index) - Tutorial, explaining basics and advanced concepts.
