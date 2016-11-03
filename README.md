@@ -15,6 +15,10 @@ Personal collection of links worth to be shared in public as well
 
 - [Rypress Git Tutorial](http://rypress.com/tutorials/git/index) - Tutorial, explaining basics and advanced concepts.
 
+### Markdown
+
+- [Markdown Syntax, github flavored](https://help.github.com/categories/writing-on-github/)
+
 ## UX and Design
 
 - [Large set of free emoticons](http://emojione.com/) that even could be used for comercial purposes (read conditions first!).
