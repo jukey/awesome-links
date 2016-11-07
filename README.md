@@ -10,6 +10,7 @@ Personal collection of links worth to be shared in public as well
 ### Benchmarking
 
 - [wrk](https://github.com/wg/wrk) - http benchmarking tool (usually part of Linux distros)
+- [perf.rocks - Web Performance Matters](http://perf.rocks/) - a nice curated collection of tools, blogposts, and other stuff around this topic
 
 ### git
 
