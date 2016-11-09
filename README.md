@@ -20,6 +20,10 @@ Personal collection of links worth to be shared in public as well
 
 - [Markdown Syntax, github flavored](https://help.github.com/categories/writing-on-github/)
 
+### Jekyll
+
+- Commit _site directory or not? Well, it depends: [Good Answer](https://stackoverflow.com/a/31871892/3752157)
+
 ## UX and Design
 
 - [Large set of free emoticons](http://emojione.com/) that even could be used for comercial purposes (read conditions first!).
