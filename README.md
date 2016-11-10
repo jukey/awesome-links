@@ -1,5 +1,5 @@
 # awesome-links
-Personal collection of links worth to be shared in public as well
+Personal collection of links worth to be shared in public as well.
 
 ## Transport & Geography
 
