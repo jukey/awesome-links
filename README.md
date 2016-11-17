@@ -39,3 +39,7 @@ Personal collection of links worth to be shared in public as well.
 ### Ubuntu
 
 - [Remove unused kernel packages from system](http://askubuntu.com/a/259092/379395)
+
+## Working Culture
+
+- [remote.co](https://remote.co/) - Portal for companies that foster remote working
