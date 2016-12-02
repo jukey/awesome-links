@@ -20,6 +20,7 @@ Personal collection of links worth to be shared in public as well.
 - Tools
   - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Improve diff look
 - Learning
+  - [Short guide covering the main use cases](https://rogerdudler.github.io/git-guide/index.de.html) - in German only 
   - [Rypress Git Tutorial](http://rypress.com/tutorials/git/index) - Tutorial, explaining basics and advanced concepts.
 - Concrete Use Cases
   - [Script to rewrite History](https://help.github.com/articles/changing-author-info/) with another name or email address
