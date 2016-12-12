@@ -19,6 +19,8 @@ Personal collection of links worth to be shared in public as well.
   - [gitlab.com](https://gitlab.com) - Offers the same as github.com but also unlimited private organisations (called Groups), unlimited private repositories, CI/CD interface, docker registry, web based merge conflict solution and a Community Edition that could be installed on a server. It's based on ruby on rails. [Check all the features](https://about.gitlab.com/features/)
   - [Openhub](https://www.openhub.net/) - Open Source Project Hub
   - [Ungit](https://github.com/FredrikNoren/ungit) - Local git client that helps to deal with advanced git tasks. It is made in a very visual way and based on node.js 
+- Insights
+  - [Gittrends](http://gittrends.io/#/) - Insights regarding popularity of git projects
 - Tools
   - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Improve diff look
 - Learning
