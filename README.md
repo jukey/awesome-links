@@ -48,6 +48,10 @@ Personal collection of links worth to be shared in public as well.
 - [Remove unused kernel packages from system](http://askubuntu.com/a/259092/379395)
 - [Recover boot menue in case the bootloader (grub2) was destroyed](https://forum.ubuntuusers.de/topic/grub-2-wiederherstellen/#post-2163906)
 
+## Communication
+
+- [Mattermost](https://about.mattermost.com/) - A Slack Alternative
+
 ## Working Culture
 
 - [remote.co](https://remote.co/) - Portal for companies that foster remote working
