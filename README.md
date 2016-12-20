@@ -33,6 +33,15 @@ Personal collection of links worth to be shared in public as well.
 
 - [Markdown Syntax, github flavored](https://help.github.com/categories/writing-on-github/)
 
+## Static page generators
+
+### Overview
+
+- [List of static page generators](https://staticsitegenerators.net/)
+  - Jekyll
+  - Sphinx
+  - [nanoc](https://nanoc.ws/about/) - ruby based and used for building the gitlab documentation
+
 ### Jekyll
 
 - Commit _site directory or not? Well, it depends: [Good Answer](https://stackoverflow.com/a/31871892/3752157)
